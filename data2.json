@@ -164,7 +164,7 @@
 {"name": "Bitner, Mary Jo", "value": 1},
 {"name": "Camocini, Barbara", "value": 1},
 {"name": "Fassi, Davide", "value": 1},
-{"name": "Felix, Elliot", "value": 1},
+{"name": "Felix, Elliot", "value": 1}
 ]},
 {"name":"Sociology",
 "children": [
@@ -172,7 +172,7 @@
 {"name": "Pavlov, Ivan Petrovich", "value": 1},
 {"name": "Skinner, Burrhus Frederic", "value": 1},
 {"name": "Bandura, Albert", "value": 1},
-{"name": "De Certeau, Michel", "value": 1},
+{"name": "De Certeau, Michel", "value": 1}
 ]},
 {"name":"Geographical proximity",
 "children": [
@@ -216,13 +216,13 @@
 {"name": "Van Oort, Frank", "value": 1},
 {"name": "Hansen, Teis", "value": 1},
 {"name": "Cassi, Lorenzo", "value": 1},
-{"name": "Plunket, Anne", "value": 1},
+{"name": "Plunket, Anne", "value": 1}
 ]},
 {"name":"Interaction design",
 "children": [
 {"name": "Norman, Don", "value": 1},
 {"name": "Moggridge, Bill", "value": 1},
-{"name": "Atkinson, Bill", "value": 1},
+{"name": "Atkinson, Bill", "value": 1}
 ]},
 "]}},"
 {"name":"How",
@@ -244,11 +244,11 @@
 {"name": "Yang, Chen-Fu", "value": 1},
 {"name": "Sung, Tung-Jung", "value": 1},
 {"name": "Kemmis, Stephen", "value": 1},
-{"name": "Mctaggart, Robin", "value": 1},
+{"name": "Mctaggart, Robin", "value": 1}
 ]},
 {"name":"Design education, Design Research",
 "children": [
-{"name": "Muratovski, Gjoko", "value": 1},
+{"name": "Muratovski, Gjoko", "value": 1}
 ]},
 {"name":"Co-design",
 "children": [
@@ -264,7 +264,7 @@
 {"name": "Selloni, Daniela", "value": 1},
 {"name": "Gianfrate, Valentina", "value": 1},
 {"name": "Gaspari, Jacopo", "value": 1},
-{"name": "Longo, Danila", "value": 1},
+{"name": "Longo, Danila", "value": 1}
 ]},
 {"name":"Design Research",
 "children": [
@@ -298,27 +298,27 @@
 {"name": "Collina, Luisa", "value": 1},
 {"name": "Bertola, Paola", "value": 1},
 {"name": "Andruchow, Robert", "value": 1},
-{"name": "Whitney, Patrick", "value": 1},
+{"name": "Whitney, Patrick", "value": 1}
 ]},
 {"name":"Co-design, Design education",
 "children": [
 {"name": "Margolin, Victor", "value": 1},
 {"name": "Cipolla, Carla", "value": 1},
-{"name": "Bartholo, Roberto", "value": 1},
+{"name": "Bartholo, Roberto", "value": 1}
 ]},
 {"name":"Co-design, Participatory action Research",
 "children": [
 {"name": "Hussain, Sofia", "value": 1},
 {"name": "Sanders, Elizabeth B-N", "value": 1},
-{"name": "Steinert, Martin", "value": 1},
+{"name": "Steinert, Martin", "value": 1}
 ]},
 {"name":"Co-design, Design Research",
 "children": [
-{"name": "Myerson, Jeremy", "value": 1},
+{"name": "Myerson, Jeremy", "value": 1}
 ]},
 {"name":"Design Research, Design education",
 "children": [
-{"name": "Friedman, Ken", "value": 1},
+{"name": "Friedman, Ken", "value": 1}
 ]},
 "]}},"
 {"name":"What, How",
@@ -349,9 +349,9 @@
 {"name": "Morelli, Nicola", "value": 1},
 {"name": "Mont, Oksana K.", "value": 1},
 {"name": "Sangiorgi, Daniela", "value": 1},
-{"name": "Pacenti, Elena", "value": 1},
+{"name": "Pacenti, Elena", "value": 1}
 ]},
 {"name":"Cities, Co-design",
 "children": [
-]},
-"]}},"
+]}
+]}
