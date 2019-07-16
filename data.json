@@ -66,16 +66,12 @@
 {"name":"Creative Communities",
 "children": [
 {"name": "Florida, R. (2005)", "value": 1},
+{"name": "Meroni, A. (2007)", "value": 1},
 {"name": "Sless, D. (2007)", "value": 1},
 {"name": "Gilmore, T. (1986)", "value": 1},
 {"name": "Krantz, J. (1986)", "value": 1},
 {"name": "Ramirez, R. (1986)", "value": 1},
 {"name": "Burke, E. M (1999)", "value": 1}
-]
-},
-{"name":"Creative communities",
-"children": [
-{"name": "Meroni, A. (2007)", "value": 1}
 ]
 },
 {"name":"Cities",
