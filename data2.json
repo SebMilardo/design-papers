@@ -24,7 +24,7 @@
 {"name": "Norman, D", "value": 1},
 {"name": "Stappers, PJ", "value": 1},
 {"name": "Voûte, E", "value": 1},
-{"name": "Whitney, P", "value": 1},
+{"name": "Whitney, P", "value": 1}
 ]},
 {"name":"University campus",
 "children": [
@@ -57,7 +57,7 @@
 {"name": "den Heijer, A.", "value": 1},
 {"name": "Tzovlas, G.", "value": 1},
 {"name": "Delft University of Technology", "value": 1},
-{"name": "Rashdall, H.", "value": 1},
+{"name": "Rashdall, H.", "value": 1}
 ]},
 {"name":"Creative communities",
 "children": [
@@ -67,7 +67,7 @@
 {"name": "Gilmore, Thomas", "value": 1},
 {"name": "Krantz, Jim", "value": 1},
 {"name": "Ramirez, Rafael", "value": 1},
-{"name": "Burke, Edmund M", "value": 1},
+{"name": "Burke, Edmund M", "value": 1}
 ]},
 {"name":"Cities",
 "children": [
@@ -86,7 +86,7 @@
 {"name": "Martinotti, Guido", "value": 1},
 {"name": "Calvino, Italo", "value": 1},
 {"name": "Evans, Graeme", "value": 1},
-{"name": "Shaw, Phyllida", "value": 1},
+{"name": "Shaw, Phyllida", "value": 1}
 ]},
 {"name":"Human behaviors public space",
 "children": [
@@ -113,7 +113,7 @@
 {"name": "Jameson, Fredric", "value": 1},
 {"name": "Conroy-Dalton, Ruth", "value": 1},
 {"name": "Bafna, Sonit", "value": 1},
-{"name": "Hillier, Bill", "value": 1},
+{"name": "Hillier, Bill", "value": 1}
 ]},
 {"name":"Interdisciplinary research",
 "children": [
@@ -130,7 +130,7 @@
 {"name": "Powell, Alvin", "value": 1},
 {"name": "Hoekman, Jarno", "value": 1},
 {"name": "Frenken, Koen", "value": 1},
-{"name": "Tijssen, Robert JW", "value": 1},
+{"name": "Tijssen, Robert JW", "value": 1}
 ]},
 {"name":"Spatial Design",
 "children": [
@@ -145,7 +145,7 @@
 {"name": "Marchart, Oliver", "value": 1},
 {"name": "Meyer, Sylke Rene", "value": 1},
 {"name": "Crespi, Luciano", "value": 1},
-{"name": "Crespi, Luciano", "value": 1},
+{"name": "Crespi, Luciano", "value": 1}
 ]},
 {"name":"Spatial and Service design",
 "children": [
